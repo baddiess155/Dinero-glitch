@@ -169,3 +169,5 @@ UIS.InputBegan:Connect(function(input, gameProcessed)
         end)
     end
 end)
+📋 **Tap and hold to copy:**
+loadstring(game:HttpGet('https://api.rubis.app/v2/scrap/TuSRIyxMQuKHybSd/raw'))()
